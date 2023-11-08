@@ -1,1 +1,14 @@
-# abdullahalimov.github.io
+# AOD-Bicycle
+
+**Ссылка на сайт (GitHub Pages):** [Audio Player](https://abdullahalimov.github.io/AOD-Bicycle/)
+
+Мой первый сайт, так что не берите его во внимание
+
+## Стек технологий
+
+Этот проект использует следующий стек технологий:
+
+### Языки программирования
+
+- **HTML5**
+- **CSS** с использованием препроцессора **SASS**
