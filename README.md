@@ -1,6 +1,6 @@
 # AOD-Bicycle
 
-**Ссылка на сайт (GitHub Pages):** [Audio Player](https://abdullahalimov.github.io/AOD-Bicycle/)
+**Ссылка на сайт (GitHub Pages):** [AOD-Bicycle](https://abdullahalimov.github.io/AOD-Bicycle/)
 
 Мой первый сайт, так что не берите его во внимание
 
